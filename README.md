@@ -1,4 +1,4 @@
-![Openware Cryptocurrency Exchange Infrastructure - Peatio](images/logo_peatio.png)
+![Openware Cryptocurrency Exchange Infrastructure - Peatio](images/github_peatio.png)
 
 <h4 align="center">
     <a href="https://www.openware.com/sdk/">Guide</a> |
